@@ -1,0 +1,23 @@
+{
+  "name": "node-closer",
+  "version": "1.0.0",
+  "description": "Allow to handle shutdown code when receiving shutdown signals.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/slimee/closer.git"
+  },
+  "keywords": [
+    "node",
+    "signal"
+  ],
+  "author": "slimee",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/slimee/closer/issues"
+  },
+  "homepage": "https://github.com/slimee/closer#readme"
+}
